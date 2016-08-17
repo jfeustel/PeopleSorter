@@ -1,0 +1,36 @@
+John Iacono 0
+Christiane Schmidt 0
+Michael Biro 0
+Sandor Fekete 1
+Oswin Aichholzer 2
+David Eppstein 2
+Adam Hesterberg 2
+Hiro Ito 3
+Mirela Damian 1
+Jessica Ginepro 1
+Ryuhei Uehara 0
+Andrew Winslow 0
+Jason Ku 0
+Tomohiro Tachi 0
+Brad Ballinger 0
+Damien Woods 0
+Zachary Abel 4
+Erik D. Demaine 2
+Martin Demaine 2
+Rappaport 1
+Anna Lubiw 1
+Irina Kostitsyna -1
+Vera Sacristan 238729387344498273984
+Suneeta Ramaswami 2
+Tom Hull 2
+Robin Flatland 0
+Dr. Dave D. Doty 0
+Scott Martin Summers 0
+Robert Jay Lang 1
+Matt J. Patitz abc
+Jason Cantarella 2
+Alexandra Keenan 399
+Robert Terrance Schweller 0
+Yushi Uno 1
+Greg Aloupis 1
+Test Dude -121212
